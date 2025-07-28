@@ -52,23 +52,18 @@ radd/
 ├── requirements.txt        # Dependencies list
 └── README.md               # Project documentation
 
-## 📄 License
-
+### 📄 License
 This project is licensed under the **MIT License**.  
 See the [LICENSE](./LICENSE) file for more details.
 
 
-🙌 Acknowledgments
-
+### 🙌 Acknowledgments
 Streamlit – For building elegant, interactive web apps effortlessly.
-
 HuggingFace Transformers – For access to state-of-the-art NLP models.
-
 PyTorch – For providing the deep learning engine.
-
 Pandas – For powerful data manipulation tools.
 
-✨ Author
+###✨ Author
 Pranay Kamble
 📫 GitHub: @Pranaykamble000
 
